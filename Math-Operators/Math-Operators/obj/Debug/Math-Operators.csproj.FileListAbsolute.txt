@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\bin\Debug\Math-Operators.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\bin\Debug\Math-Operators.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\bin\Debug\Math-Operators.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\obj\Debug\Math-Operators.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\obj\Debug\Math-Operators.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\obj\Debug\Math-Operators.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Math-Operators\Math-Operators\obj\Debug\Math-Operators.pdb
