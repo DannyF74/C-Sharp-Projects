@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\bin\Debug\Anonymous-Income-Comparison.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\bin\Debug\Anonymous-Income-Comparison.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\bin\Debug\Anonymous-Income-Comparison.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\obj\Debug\Anonymous-Income-Comparison.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\obj\Debug\Anonymous-Income-Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\obj\Debug\Anonymous-Income-Comparison.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Anonymous-Income-Comparison\Anonymous-Income-Comparison\obj\Debug\Anonymous-Income-Comparison.pdb
