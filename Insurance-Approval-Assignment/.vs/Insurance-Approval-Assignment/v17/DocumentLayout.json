@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Insurance-Approval-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CF1215-8D1A-4A8C-B7B0-4EA7063E2F35}|Insurance-Approval-Assignment\\Insurance-Approval-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\insurance-approval-assignment\\insurance-approval-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0CF1215-8D1A-4A8C-B7B0-4EA7063E2F35}|Insurance-Approval-Assignment\\Insurance-Approval-Assignment.csproj|solutionrelative:insurance-approval-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Insurance-Approval-Assignment\\Insurance-Approval-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Insurance-Approval-Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Insurance-Approval-Assignment\\Insurance-Approval-Assignment\\Program.cs",
+              "RelativeToolTip": "Insurance-Approval-Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T20:23:56.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

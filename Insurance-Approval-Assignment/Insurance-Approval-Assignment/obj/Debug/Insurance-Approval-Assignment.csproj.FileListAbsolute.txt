@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\bin\Debug\Insurance-Approval-Assignment.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\bin\Debug\Insurance-Approval-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\bin\Debug\Insurance-Approval-Assignment.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\obj\Debug\Insurance-Approval-Assignment.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\obj\Debug\Insurance-Approval-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\obj\Debug\Insurance-Approval-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Insurance-Approval-Assignment\Insurance-Approval-Assignment\obj\Debug\Insurance-Approval-Assignment.pdb
