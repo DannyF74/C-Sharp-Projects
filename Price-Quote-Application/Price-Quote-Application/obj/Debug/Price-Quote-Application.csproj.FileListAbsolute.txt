@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\bin\Debug\Price-Quote-Application.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\bin\Debug\Price-Quote-Application.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\bin\Debug\Price-Quote-Application.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\obj\Debug\Price-Quote-Application.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\obj\Debug\Price-Quote-Application.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\obj\Debug\Price-Quote-Application.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Price-Quote-Application\Price-Quote-Application\obj\Debug\Price-Quote-Application.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Price-Quote-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{641EE529-17B8-4A1C-BA14-66A4AB706139}|Price-Quote-Application\\Price-Quote-Application.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\price-quote-application\\price-quote-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{641EE529-17B8-4A1C-BA14-66A4AB706139}|Price-Quote-Application\\Price-Quote-Application.csproj|solutionrelative:price-quote-application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Price-Quote-Application\\Price-Quote-Application\\Program.cs",
+              "RelativeDocumentMoniker": "Price-Quote-Application\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Price-Quote-Application\\Price-Quote-Application\\Program.cs",
+              "RelativeToolTip": "Price-Quote-Application\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:46:02.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
