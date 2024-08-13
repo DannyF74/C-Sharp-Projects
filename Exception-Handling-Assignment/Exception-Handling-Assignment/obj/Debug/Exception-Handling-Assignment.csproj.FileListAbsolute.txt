@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\bin\Debug\Exception-Handling-Assignment.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\bin\Debug\Exception-Handling-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\bin\Debug\Exception-Handling-Assignment.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\obj\Debug\Exception-Handling-Assignment.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\obj\Debug\Exception-Handling-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\obj\Debug\Exception-Handling-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Exception-Handling-Assignment\Exception-Handling-Assignment\obj\Debug\Exception-Handling-Assignment.pdb
