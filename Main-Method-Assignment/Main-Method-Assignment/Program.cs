@@ -18,15 +18,15 @@ namespace Main_Method_Assignment
             // different answers.
             Console.WriteLine("Please enter a whole number.");
             int userNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(userNumber + " plus 1 equals " + Calculations.Calculation(userNumber));
+            Console.WriteLine(userNumber + " plus 1 equals " + Calculations.intCalculation(userNumber));
 
             Console.WriteLine("Please enter a number with two decimal places. (Example: 3.14)");
             decimal userNumber2 = Convert.ToDecimal(Console.ReadLine());
-            Console.WriteLine(userNumber2 + " plus 10 equals " + Calculations.Calculation(userNumber2) + " as an integer.");
+            Console.WriteLine(userNumber2 + " plus 10 equals " + Calculations.decCalculation(userNumber2) + " when rounded down to the nearest whole number.");
 
             Console.WriteLine("Please enter another whole number");
             string userNumber3 = Console.ReadLine();
-            Console.WriteLine(userNumber3 + " plus 100 equals " + Calculations.Calculation(userNumber3) + " as an integer.");
+            Console.WriteLine(userNumber3 + " plus 100 equals " + Calculations.stringCalculation(userNumber3));
 
 
             Console.ReadLine();
