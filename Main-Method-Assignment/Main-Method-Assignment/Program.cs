@@ -12,15 +12,23 @@ namespace Main_Method_Assignment
         {
             // Instantiating the class we just made and named it Calculations.
             Class1 Calculations = new Class1();
-            Console.WriteLine("Please enter your favorite number.");
-            string userNumber = Console.ReadLine();
 
             // Takes the users input and runs the overloaded method while converting the input to different data types.
             // Although everything looks the same, the different data types will run different methods and produce
             // different answers.
-            Console.WriteLine(userNumber + " as an integer, plus one equals " + Calculations.Calculation(Convert.ToInt32(userNumber)) + " as an integer.");
-            Console.WriteLine(userNumber + " as a decimal, plus ten equals " + Calculations.Calculation(Convert.ToDecimal(userNumber)) + " as an integer.");
-            Console.WriteLine(userNumber + " as a string, plus one hundred equals " + Calculations.Calculation(userNumber) + " as an integer.");
+            Console.WriteLine("Please enter a whole number.");
+            int userNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(userNumber + " plus 1 equals " + Calculations.Calculation(userNumber));
+
+            Console.WriteLine("Please enter a number with two decimal places. (Example: 3.14)");
+            decimal userNumber2 = Convert.ToDecimal(Console.ReadLine());
+            Console.WriteLine(userNumber2 + " plus 10 equals " + Calculations.Calculation(userNumber2) + " as an integer.");
+
+            Console.WriteLine("Please enter another whole number");
+            string userNumber3 = Console.ReadLine();
+            Console.WriteLine(userNumber3 + " plus 100 equals " + Calculations.Calculation(userNumber3) + " as an integer.");
+
+
             Console.ReadLine();
         }
     }
