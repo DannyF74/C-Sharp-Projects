@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Void-Method-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDC8F6-EC26-484A-8085-021554889506}|Void-Method-Assignment\\Void-Method-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\void-method-assignment\\void-method-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDC8F6-EC26-484A-8085-021554889506}|Void-Method-Assignment\\Void-Method-Assignment.csproj|solutionrelative:void-method-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CDC8F6-EC26-484A-8085-021554889506}|Void-Method-Assignment\\Void-Method-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\void-method-assignment\\void-method-assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CDC8F6-EC26-484A-8085-021554889506}|Void-Method-Assignment\\Void-Method-Assignment.csproj|solutionrelative:void-method-assignment\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Void-Method-Assignment\\Void-Method-Assignment\\MathOperations.cs",
+              "RelativeDocumentMoniker": "Void-Method-Assignment\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Void-Method-Assignment\\Void-Method-Assignment\\MathOperations.cs",
+              "RelativeToolTip": "Void-Method-Assignment\\MathOperations.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T21:12:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Void-Method-Assignment\\Void-Method-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Void-Method-Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Void-Method-Assignment\\Void-Method-Assignment\\Program.cs",
+              "RelativeToolTip": "Void-Method-Assignment\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T21:11:54.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
