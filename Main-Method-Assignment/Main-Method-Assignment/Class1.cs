@@ -15,17 +15,16 @@ namespace Main_Method_Assignment
             return number1 + 1;
         }
 
-        public decimal Calculation(decimal number2)
+        public int Calculation(decimal number2)
         {
-            return number2 + 10;
+            int convert1 = Convert.ToInt32(number2);
+            return convert1 + 10;
         }
 
-        public string Calculation(string stringNumber) 
+        public int Calculation(string stringNumber) 
         {
             int intNumber = Convert.ToInt32(stringNumber);
-            intNumber = intNumber + 100;
-            stringNumber = Convert.ToString(intNumber);
-            return stringNumber;
+            return intNumber + 100;
         }
     }
 }

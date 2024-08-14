@@ -18,9 +18,9 @@ namespace Main_Method_Assignment
             // Takes the users input and runs the overloaded method while converting the input to different data types.
             // Although everything looks the same, the different data types will run different methods and produce
             // different answers.
-            Console.WriteLine(userNumber + " plus one as an integer equals " + Calculations.Calculation(Convert.ToInt32(userNumber)));
-            Console.WriteLine(userNumber + " plus ten as a decimal equals " + Calculations.Calculation(Convert.ToDecimal(userNumber)));
-            Console.WriteLine(userNumber + " plus one hundred as a string equals " + Calculations.Calculation(userNumber));
+            Console.WriteLine(userNumber + " as an integer, plus one equals " + Calculations.Calculation(Convert.ToInt32(userNumber)) + " as an integer.");
+            Console.WriteLine(userNumber + " as a decimal, plus ten equals " + Calculations.Calculation(Convert.ToDecimal(userNumber)) + " as an integer.");
+            Console.WriteLine(userNumber + " as a string, plus one hundred equals " + Calculations.Calculation(userNumber) + " as an integer.");
             Console.ReadLine();
         }
     }
