@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\bin\Debug\Methods-Objects-Assignment.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\bin\Debug\Methods-Objects-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\bin\Debug\Methods-Objects-Assignment.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\obj\Debug\Methods-Objects-Assignment.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\obj\Debug\Methods-Objects-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\obj\Debug\Methods-Objects-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Methods-Objects-Assignment\Methods-Objects-Assignment\obj\Debug\Methods-Objects-Assignment.pdb
