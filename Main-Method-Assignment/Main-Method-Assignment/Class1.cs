@@ -15,9 +15,9 @@ namespace Main_Method_Assignment
             return number1 + 1;
         }
 
-        public decimal Calculation(decimal number2)
+        public int Calculation(decimal number2)
         {
-            return number2 + 10.0m;
+            return Convert.ToInt32(number2) + 10;
         }
 
         public int Calculation(string stringNumber) 
