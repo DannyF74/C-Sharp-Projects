@@ -15,8 +15,17 @@ namespace Abstract_Classes_Assignment
             employee1.firstName = "Sample";
             employee1.lastName = "Student";
 
-            // Running the inherited abstract method SayName that we defined in the child employee class. 
+            // Running the inherited abstract method SayName that we defined in the child employee class.
+            // Then running the quit method from the inherited interface IQuittable
             employee1.SayName();
+            employee1.Quit();
+            Console.ReadLine();
+
+            // Here we are demonstrating polymorphism to create a quittableEmployee variable of the IQuittable data type.
+            // Then we call the Quit method in the IQuittable interface which is defined in the Employee class which
+            // uses the data in the employee1 instance.
+            IQuittable quittableEmployee1 = employee1;
+            quittableEmployee1.Quit();
             Console.ReadLine();
         }
     }

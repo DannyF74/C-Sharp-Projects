@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|solutionrelative:abstract-classes-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\abstract-classes-assignment\\abstract-classes-assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|solutionrelative:abstract-classes-assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\abstract-classes-assignment\\abstract-classes-assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|solutionrelative:abstract-classes-assignment\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\abstract-classes-assignment\\abstract-classes-assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\abstract-classes-assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|solutionrelative:abstract-classes-assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\abstract-classes-assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1005E421-F6A2-45FC-AF14-4B56CBB1CB08}|Abstract-Classes-Assignment\\Abstract-Classes-Assignment.csproj|solutionrelative:abstract-classes-assignment\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 73,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\Abstract-Classes-Assignment\\IQuittable.cs",
+              "RelativeDocumentMoniker": "Abstract-Classes-Assignment\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\Abstract-Classes-Assignment\\IQuittable.cs",
+              "RelativeToolTip": "Abstract-Classes-Assignment\\IQuittable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:39:28.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,14 +53,14 @@
               "RelativeDocumentMoniker": "Abstract-Classes-Assignment\\Employee.cs",
               "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\Abstract-Classes-Assignment\\Employee.cs",
               "RelativeToolTip": "Abstract-Classes-Assignment\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T04:16:59.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\Abstract-Classes-Assignment\\Person.cs",
               "RelativeDocumentMoniker": "Abstract-Classes-Assignment\\Person.cs",
@@ -62,7 +79,7 @@
               "RelativeDocumentMoniker": "Abstract-Classes-Assignment\\Program.cs",
               "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Abstract-Classes-Assignment\\Abstract-Classes-Assignment\\Program.cs",
               "RelativeToolTip": "Abstract-Classes-Assignment\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-17T04:14:46.184Z",
               "EditorCaption": ""
