@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\bin\Debug\Overloaded-Operators-Assignment.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\bin\Debug\Overloaded-Operators-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\bin\Debug\Overloaded-Operators-Assignment.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\obj\Debug\Overloaded-Operators-Assignment.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\obj\Debug\Overloaded-Operators-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\obj\Debug\Overloaded-Operators-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Overloaded-Operators-Assignment\Overloaded-Operators-Assignment\obj\Debug\Overloaded-Operators-Assignment.pdb
