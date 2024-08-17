@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Lambda-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2302A8-5EFA-4193-8D60-AB01046C3A61}|Lambda-Assignment\\Lambda-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\lambda-assignment\\lambda-assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2302A8-5EFA-4193-8D60-AB01046C3A61}|Lambda-Assignment\\Lambda-Assignment.csproj|solutionrelative:lambda-assignment\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2302A8-5EFA-4193-8D60-AB01046C3A61}|Lambda-Assignment\\Lambda-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\lambda-assignment\\lambda-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2302A8-5EFA-4193-8D60-AB01046C3A61}|Lambda-Assignment\\Lambda-Assignment.csproj|solutionrelative:lambda-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Lambda-Assignment\\Lambda-Assignment\\Employee.cs",
+              "RelativeDocumentMoniker": "Lambda-Assignment\\Employee.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Lambda-Assignment\\Lambda-Assignment\\Employee.cs",
+              "RelativeToolTip": "Lambda-Assignment\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:27:19.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Lambda-Assignment\\Lambda-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda-Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Lambda-Assignment\\Lambda-Assignment\\Program.cs",
+              "RelativeToolTip": "Lambda-Assignment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwDUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:27:03.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
