@@ -1,0 +1,7 @@
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\bin\Debug\Input-Output-Assignment.exe.config
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\bin\Debug\Input-Output-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\bin\Debug\Input-Output-Assignment.pdb
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\obj\Debug\Input-Output-Assignment.csproj.AssemblyReference.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\obj\Debug\Input-Output-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\obj\Debug\Input-Output-Assignment.exe
+C:\Users\Danny\Documents\GitHub\C-Sharp-Projects\Input-Output-Assignment\Input-Output-Assignment\obj\Debug\Input-Output-Assignment.pdb

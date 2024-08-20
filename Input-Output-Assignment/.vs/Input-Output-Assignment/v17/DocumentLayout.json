@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Input-Output-Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC266D1C-3312-4F05-9F2C-445A0959F5C6}|Input-Output-Assignment\\Input-Output-Assignment.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\input-output-assignment\\input-output-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC266D1C-3312-4F05-9F2C-445A0959F5C6}|Input-Output-Assignment\\Input-Output-Assignment.csproj|solutionrelative:input-output-assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Input-Output-Assignment\\Input-Output-Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Input-Output-Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Input-Output-Assignment\\Input-Output-Assignment\\Program.cs",
+              "RelativeToolTip": "Input-Output-Assignment\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T23:33:32.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
