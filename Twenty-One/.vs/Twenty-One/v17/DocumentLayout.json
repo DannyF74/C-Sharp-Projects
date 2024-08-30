@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\twenty-one\\twenty-one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\twentyonegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7277412F-7BAA-4B96-8FFF-5CFE970E7047}|Casino\\Casino.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\twenty-one\\casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277412F-7BAA-4B96-8FFF-5CFE970E7047}|Casino\\Casino.csproj|solutionrelative:casino\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\twentyonerules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\twentyonedealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\iwalkaway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\twenty-one\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44D5497-7C7F-48C4-9BA0-C7C506CD0F03}|Twenty-One\\Twenty-One.csproj|solutionrelative:twenty-one\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7277412F-7BAA-4B96-8FFF-5CFE970E7047}|Casino\\Casino.csproj|c:\\users\\danny\\documents\\github\\c-sharp-projects\\twenty-one\\casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7277412F-7BAA-4B96-8FFF-5CFE970E7047}|Casino\\Casino.csproj|solutionrelative:casino\\dealer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,125 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TwentyOneDealer.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneDealer.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\TwentyOneDealer.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneDealer.cs",
-              "RelativeToolTip": "Twenty-One\\TwentyOneDealer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T23:28:43.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IWalkAway.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\IWalkAway.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\IWalkAway.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\IWalkAway.cs",
-              "RelativeToolTip": "Twenty-One\\IWalkAway.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T04:32:44.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Dealer.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Dealer.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\Dealer.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Dealer.cs",
-              "RelativeToolTip": "Twenty-One\\Dealer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAtAAAA",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Casino\\Dealer.cs",
+              "RelativeDocumentMoniker": "Casino\\Dealer.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Casino\\Dealer.cs",
+              "RelativeToolTip": "Casino\\Dealer.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T03:06:17.848Z",
+              "WhenOpened": "2024-08-21T03:23:22.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Player.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\Player.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Player.cs",
-              "RelativeToolTip": "Twenty-One\\Player.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAwA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T03:04:21.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TwentyOneGame.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneGame.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\TwentyOneGame.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneGame.cs",
-              "RelativeToolTip": "Twenty-One\\TwentyOneGame.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAowDUAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T23:27:26.604Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Game.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\Game.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Game.cs",
-              "RelativeToolTip": "Twenty-One\\Game.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T23:04:55.224Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Deck.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Deck.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\Deck.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Deck.cs",
-              "RelativeToolTip": "Twenty-One\\Deck.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowA4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:21:32.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Card.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\Card.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Card.cs",
-              "RelativeToolTip": "Twenty-One\\Card.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T23:10:32.613Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Casino\\Player.cs",
+              "RelativeDocumentMoniker": "Casino\\Player.cs",
+              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Casino\\Player.cs",
+              "RelativeToolTip": "Casino\\Player.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:51:32.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Program.cs",
               "RelativeDocumentMoniker": "Twenty-One\\Program.cs",
               "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\Program.cs",
               "RelativeToolTip": "Twenty-One\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-13T23:07:36.954Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TwentyOneRules.cs",
-              "DocumentMoniker": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneRules.cs",
-              "RelativeDocumentMoniker": "Twenty-One\\TwentyOneRules.cs",
-              "ToolTip": "C:\\Users\\Danny\\Documents\\GitHub\\C-Sharp-Projects\\Twenty-One\\Twenty-One\\TwentyOneRules.cs",
-              "RelativeToolTip": "Twenty-One\\TwentyOneRules.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAIwE8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T01:21:52.083Z"
             }
           ]
         }
