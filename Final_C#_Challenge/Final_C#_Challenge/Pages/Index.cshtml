@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+@{
+    var greeting = "Welcome to our site! It is currently ";
+    var dayOfTheWeek = DateTime.Now.DayOfWeek;
+    var time = DateTime.Now.Hour + ":" + DateTime.Now.Minute;
+    var mornOrAft = "morning";
+    if (DateTime.Now.Hour > 12)
+    {
+        mornOrAft = "afternoon";
+    }
+    var welcome = greeting + time + " on " + dayOfTheWeek + " " + mornOrAft + ".";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Current Time</h1>
+    <h2>@welcome</h2>
+</div>
